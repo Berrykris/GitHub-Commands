@@ -1,0 +1,15 @@
+//HOW TO CREATE A REPO USING TERMINAL
+Step 1 - git init
+Step 2 - git add .
+Step 3 - git status(to see changes)
+Step 4 - git commit -m "message"
+Step 5 - identify ur branch name
+Step 6 - git push -u origin branchName
+
+//HOW TO KNOW THE GITHUB ACCOUNT CONNECTED TO UR REPO
+git remote -v
+
+//HOW TO PULL CHANGES FROM GITHUB INTO YOUR VS CODE PROJECT
+git pull origin main
+
+//
