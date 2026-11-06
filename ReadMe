@@ -12,4 +12,7 @@ git remote -v
 //HOW TO PULL CHANGES FROM GITHUB INTO YOUR VS CODE PROJECT
 git pull origin main
 
-//
+//BRANCHES
+Creating a branch - git branch branchName
+Switching between branches - git switch (The name of the branch u want to switch to)
+To check all branches - git branch -a
