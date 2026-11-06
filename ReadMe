@@ -29,3 +29,5 @@ git pull origin main
 Creating a branch - git branch branchName
 Switching between branches - git switch (The name of the branch u want to switch to)
 To check all branches - git branch -a
+
+//THE END
