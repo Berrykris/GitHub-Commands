@@ -6,6 +6,9 @@ Step 4 - git commit -m "message"
 Step 5 - identify ur branch name
 Step 6 - git push -u origin branchName
 
+//HOW TO STAGE ALREADY EXISTING FILES
+git commit -a -m "Updated project"
+
 //HOW TO KNOW THE GITHUB ACCOUNT CONNECTED TO UR REPO
 git remote -v
 
