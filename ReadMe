@@ -9,8 +9,17 @@ Step 6 - git push -u origin branchName
 //HOW TO STAGE ALREADY EXISTING FILES
 git commit -a -m "Updated project"
 
-//HOW TO KNOW THE GITHUB ACCOUNT CONNECTED TO UR REPO
-git remote -v
+//GIT REMOTE COMMANDS
+| Command | Purpose |
+|---|---|
+| `git remote` | Lists remote names. |
+| `git remote -v` | Shows remote names and their URLs. |
+| `git remote add origin URL` | Adds a remote repository. |
+| `git remote remove origin` | Removes a remote connection. |
+| `git remote rename origin upstream` | Renames a remote. |
+| `git remote get-url origin` | Displays the URL of a remote. |
+| `git remote set-url origin URL` | Changes the URL of a remote. |
+| `git remote show origin` | Shows detailed information about a remote. |
 
 //HOW TO PULL CHANGES FROM GITHUB INTO YOUR VS CODE PROJECT
 git pull origin main
@@ -19,3 +28,5 @@ git pull origin main
 Creating a branch - git branch branchName
 Switching between branches - git switch (The name of the branch u want to switch to)
 To check all branches - git branch -a
+
+//
