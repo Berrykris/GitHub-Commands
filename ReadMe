@@ -7,7 +7,7 @@ Step 5 - git commit -m "message"
 Step 6 - identify ur branch name.
 Step 7 - git push -u origin branchName 
 
-//HOW TO STAGE ALREADY EXISTING FILES
+//HOW TO STAGE ALREADY EXISTING FILES 
 git commit -a -m "Updated project"
 
 //GIT REMOTE COMMANDS
